@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34099
     wikipedia: http://sv.wikipedia.org/wiki/Otto_Witt_(science_fiction-f%C3%B6rfattare)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29707#Jordens-Inre
 gutenberg_issued: '2009-08-16'
 gutenberg_type: Text
 identifiers:
